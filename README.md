@@ -1,3 +1,3 @@
 # atividadesmn
 
-#segundo commit adição
+#segundo commit adiçãogit s
